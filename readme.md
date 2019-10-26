@@ -1,6 +1,6 @@
 ## What does the code do.
 
-The file experiments.py contains all the code required to run our experiments. Each run of this script trains a fully connected feedforward neural network on two random draws of a subset of the MNIST dataset from the same initialization. The results of the experiment, (such as the numerical values of the NUMERATOR of the generalization bounds) are saved inside a new folder. The folder name is automatically assigned to be the lowest available integer in the parent folder.
+The file ```experiments.py``` contains all the code required to run our experiments. Each run of this script trains a fully connected feedforward neural network on two random draws of a subset of the MNIST dataset from the same initialization. The results of the experiment (such as the numerical values of the NUMERATOR of the generalization bounds) are saved inside a new folder. The folder name is automatically assigned to be the lowest available integer in the parent folder.
 
 Please see ```spec-file.txt``` and ```package-list.txt``` for the dependencies.
 
