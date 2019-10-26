@@ -1,0 +1,35 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: linux-64
+@EXPLICIT
+https://repo.continuum.io/pkgs/main/linux-64/backcall-0.1.0-py35_0.tar.bz2
+https://repo.continuum.io/pkgs/main/linux-64/ca-certificates-2018.03.07-0.tar.bz2
+https://repo.continuum.io/pkgs/main/linux-64/certifi-2018.8.24-py35_1.tar.bz2
+https://repo.continuum.io/pkgs/main/linux-64/decorator-4.3.0-py35_0.tar.bz2
+https://repo.continuum.io/pkgs/main/linux-64/ipython_genutils-0.2.0-py35hc9e07d0_0.tar.bz2
+https://repo.continuum.io/pkgs/main/linux-64/jedi-0.12.1-py35_0.tar.bz2
+https://repo.continuum.io/pkgs/main/linux-64/libedit-3.1.20170329-h6b74fdf_2.tar.bz2
+https://repo.continuum.io/pkgs/main/linux-64/libffi-3.2.1-hd88cf55_4.tar.bz2
+https://repo.continuum.io/pkgs/main/linux-64/libgcc-ng-8.2.0-hdf63c60_1.tar.bz2
+https://repo.continuum.io/pkgs/main/linux-64/libstdcxx-ng-8.2.0-hdf63c60_1.tar.bz2
+https://repo.continuum.io/pkgs/main/linux-64/ncurses-6.1-hf484d3e_0.tar.bz2
+https://repo.continuum.io/pkgs/main/linux-64/openssl-1.0.2p-h14c3975_0.tar.bz2
+https://repo.continuum.io/pkgs/main/linux-64/parso-0.3.1-py35_0.tar.bz2
+https://repo.continuum.io/pkgs/main/linux-64/pexpect-4.6.0-py35_0.tar.bz2
+https://repo.continuum.io/pkgs/main/linux-64/pickleshare-0.7.4-py35hd57304d_0.tar.bz2
+https://repo.continuum.io/pkgs/main/linux-64/pip-10.0.1-py35_0.tar.bz2
+https://repo.continuum.io/pkgs/main/linux-64/prompt_toolkit-1.0.15-py35hc09de7a_0.tar.bz2
+https://repo.continuum.io/pkgs/main/linux-64/ptyprocess-0.6.0-py35_0.tar.bz2
+https://repo.continuum.io/pkgs/main/linux-64/pygments-2.2.0-py35h0f41973_0.tar.bz2
+https://repo.continuum.io/pkgs/main/linux-64/python-3.5.5-hc3d631a_4.tar.bz2
+https://repo.continuum.io/pkgs/main/linux-64/readline-7.0-h7b6447c_5.tar.bz2
+https://repo.continuum.io/pkgs/main/linux-64/setuptools-40.2.0-py35_0.tar.bz2
+https://repo.continuum.io/pkgs/main/linux-64/simplegeneric-0.8.1-py35_2.tar.bz2
+https://repo.continuum.io/pkgs/main/linux-64/six-1.11.0-py35_1.tar.bz2
+https://repo.continuum.io/pkgs/main/linux-64/sqlite-3.24.0-h84994c4_0.tar.bz2
+https://repo.continuum.io/pkgs/main/linux-64/tk-8.6.8-hbc83047_0.tar.bz2
+https://repo.continuum.io/pkgs/main/linux-64/traitlets-4.3.2-py35ha522a97_0.tar.bz2
+https://repo.continuum.io/pkgs/main/linux-64/wcwidth-0.1.7-py35hcd08066_0.tar.bz2
+https://repo.continuum.io/pkgs/main/linux-64/wheel-0.31.1-py35_0.tar.bz2
+https://repo.continuum.io/pkgs/main/linux-64/xz-5.2.4-h14c3975_4.tar.bz2
+https://repo.continuum.io/pkgs/main/linux-64/zlib-1.2.11-ha838bed_2.tar.bz2
